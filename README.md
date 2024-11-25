@@ -26,7 +26,7 @@ This repository contains the evaluation of **9 deployed machine learning models*
 ## Repository Structure
 
 - **`/data`**:
-  Contains the dataset used for evaluation.
+  Contains the datasets used for evaluation.
 
 - **`/Testing_Scripts`**:
   Jupyter notebooks and python scripts for Api's model evaluation and calibration.
